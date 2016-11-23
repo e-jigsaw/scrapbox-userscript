@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "scrapbox-userscript",
+  "description": "scrapbox userscripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/e-jigsaw/scrapbox-userscript.git"
+  },
+  "keywords": [
+    "scrapbox"
+  ],
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-jigsaw/scrapbox-userscript/issues"
+  },
+  "homepage": "https://github.com/e-jigsaw/scrapbox-userscript#readme"
+}
