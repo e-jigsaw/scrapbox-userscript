@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "scrapbox-userscript",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scrapbox.io/*"
+      ],
+      "run_at": "document_end",
+      "js": ["index.js"]
+    }
+  ]
+}
